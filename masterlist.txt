@@ -1,0 +1,18 @@
+Minecraft 1.20.2
+Fabric Loader 0.14.24
+
+AmbietSounds
+Craftify
+CreativeCore
+EntityCulling
+Fabric API
+Fabric Language Kotlin
+FerriteCore
+Inventory Profiles Next
+Just Enough Items
+Just Enough Professions (JEP)
+liblPN
+Mod Menu
+Sodium
+Xaero's Minimap
+Xaero's World Map
