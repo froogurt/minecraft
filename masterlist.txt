@@ -1,18 +1,31 @@
 Minecraft 1.20.2
-Fabric Loader 0.14.24
+Fabric Loader 0.15.4
 
 AmbietSounds
+Better Mount HUD
+Better F3
+Cloth Config API
+Continuity
 Craftify
 CreativeCore
+Debugify
+Dynamic FPS
+Enhanced Block Entities
 EntityCulling
 Fabric API
 Fabric Language Kotlin
 FerriteCore
+Indium
 Inventory Profiles Next
 Just Enough Items
 Just Enough Professions (JEP)
+LambDynamicLights
 liblPN
+Lithium
 Mod Menu
+Reese's Sodium Options
 Sodium
+Sodium Extra
 Xaero's Minimap
 Xaero's World Map
+YetAnotherConfigLib
